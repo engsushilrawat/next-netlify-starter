@@ -11,8 +11,8 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
+        <Header title="Thanks For visitng NerdSqaud IT Solutions" />
+        <p className="IT Services">
           Get started by editing <code>pages/index.js</code>
         </p>
       </main>
