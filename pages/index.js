@@ -11,14 +11,11 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Thanks For visitng NerdSqaud IT Solutions" />
-        <p className="IT Services">
-          Contact: Sushil Rawat
+        <Header title="Contact: Sushil Rawat
           Mob.    9871642404
-          Email - eng.sushilrawat@gmail.com
-          
-          
-          
+          Email - eng.sushilrawat@gmail.com" />
+        <p className="IT Services">Thanks For visitng NerdSqaud IT Solutions
+            
         </p>
       </main>
 
