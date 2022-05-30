@@ -13,7 +13,10 @@ export default function Home() {
       <main>
         <Header title="Thanks For visitng NerdSqaud IT Solutions" />
         <p className="IT Services">
-          Get started by editing <code>pages/index.js</code>
+          Contact: Sushil Rawat
+          Mob.    9871642404
+          
+          
         </p>
       </main>
 
