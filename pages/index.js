@@ -15,6 +15,8 @@ export default function Home() {
         <p className="IT Services">
           Contact: Sushil Rawat
           Mob.    9871642404
+          Email - eng.sushilrawat@gmail.com
+          
           
           
         </p>
