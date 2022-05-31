@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>NerdSquad IT Solutions (OPC) Pvt. Ltd.</title>
-        <link rel="icon" href="/public/logo.ico" />
+        <link rel="icon" href="favicon.ico" />
       </Head>
 
       <main>
